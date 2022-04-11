@@ -1,2 +1,2 @@
 # SampleRepo
-This is just a sample repo I used for testing.
+This is just a sample repo. I may not need it.
